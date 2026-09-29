@@ -1,0 +1,6 @@
+{
+  "name": "Vamsha Vriksha",
+  "description": "Karnataka family tree app to track ancestral roots, Kannada kinship, photos, and cultural heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
